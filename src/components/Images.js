@@ -8,12 +8,12 @@ const Images = {
   dress6: require("../../assets/appImages/dress6.png"),
   dress7: require("../../assets/appImages/dress7.png"),
   Filter: require("../../assets/appImages/Filter.png"),
-  ListView: require("../../assets/appImages/ListView.png"),
+  ListView: require("../../assets/appImages/Listview.png"),
   Logo: require("../../assets/appImages/Logo.png"),
   Menu: require("../../assets/appImages/Menu.png"),
   remove: require("../../assets/appImages/remove.png"),
   Search: require("../../assets/appImages/Search.png"),
-  ShoppingBag: require("../../assets/appImages/ShoppingBag.png"),
+  ShoppingBag: require("../../assets/appImages/shoppingBag.png"),
 };
 
 export default Images;
